@@ -1,0 +1,8 @@
+2025-04-16 23:44:23,296 - INFO - MongoDB connection established
+2025-04-16 23:44:23,299 - ERROR - MongoDB connection failed: 'PolicyPulseScraper' object has no attribute '_initialize_source_scoring'
+2025-04-16 23:46:09,240 - INFO - MongoDB connection established
+2025-04-16 23:46:09,242 - ERROR - MongoDB connection failed: 'PolicyPulseScraper' object has no attribute '_initialize_source_scoring'
+2025-04-16 23:49:46,758 - INFO - MongoDB connection established
+2025-04-16 23:49:46,762 - ERROR - MongoDB connection failed: 'PolicyPulseScraper' object has no attribute '_initialize_source_scoring'
+2025-04-16 23:53:17,247 - INFO - MongoDB connection established
+2025-04-16 23:53:17,250 - ERROR - MongoDB connection failed: 'PolicyPulseScraper' object has no attribute '_initialize_source_scoring'
